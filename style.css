@@ -526,7 +526,7 @@ body {
     background: url(section-2.jpg);
     background-size: cover;
     background-position: center;
-    background-color: rgba(0, 0, 0, 0.78);
+    background-color: rgba(0, 0, 0, 0.98);
 }
 
 .purchase .container {
@@ -550,7 +550,7 @@ body {
 .purchase-link {
     display: inline-block;
     margin: 0 auto;
-    display: block;
+    /*display: block;*/
     padding: 26px 0;
     font-size: 13px;
     font-weight: 700;

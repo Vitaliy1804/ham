@@ -28,6 +28,47 @@ serviceButtons.forEach(button => {
     });
 });
 
+// work tabs
+
+const filterImages = () => {
+
+    let filterList = [...document.getElementsByClassName("work-tab")];
+
+    // let fotoList = [...document.getElementsByClassName("achivment-gallery-foto")];
+
+    filterList.forEach((elemItem) => {
+        elemItem.addEventListener('click', (event) => {
+            // console.log(event.target.getAttribute('data-filter'))
+            // fotoList.forEach(item => {
+            //
+            //     if (item.classList.contains(event.target.getAttribute('data-filter'))) {
+            //         item.classList.remove('hide')
+            //     }
+            //
+            //     if (!item.classList.contains(event.target.getAttribute('data-filter'))) {
+            //         item.classList.add('hide')
+            //     }
+
+                filterList.forEach((listItem) => {
+                    if (!listItem.classList.contains(event.target.getAttribute('data-info'))) {
+                        listItem.classList.remove('active')
+                    } else if (!listItem.classList.contains(event.target.getAttribute('active'))) {
+                        listItem.classList.remove('active')
+                    }
+
+                    if (listItem.classList.contains(event.target.getAttribute('data-info'))) {
+                        listItem.classList.add('active')}
+                })
+            // })
+        })
+    })
+}
+
+filterImages()
+
+
+
+
 // Specify Default opened block
 // serviceButtons[0].click();
 //
