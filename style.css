@@ -81,7 +81,7 @@ body {
     font-size: 40px;
     font-weight: 700;
     text-decoration: none;
-    /*clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);*/
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
 .logo-colored {
@@ -99,6 +99,7 @@ body {
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
+    list-style-type: none;
 }
 
 .menu-item {
