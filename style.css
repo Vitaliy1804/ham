@@ -490,7 +490,10 @@ body {
     margin-top: 30px;
 }
 .our-services__tab-content.active {
-    display: block;
+    /*display: block;*/
+    display: flex;
+    justify-content: space-between;
+
 }
 .our-services__tab-content img {
     margin-right: 20px;
