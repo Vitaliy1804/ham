@@ -464,6 +464,7 @@ body {
 .our-services__tab.active {
     color: white;
     background-color: #18cfab;
+    outline: 0;
 }
 
    /* .active{
@@ -509,6 +510,7 @@ body {
     display: inline-block;
     width: 79%;
     vertical-align: top;
+    text-align: left;
 }
 
 .news-heading {
