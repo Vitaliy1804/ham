@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1a94fc5-e3ed-4756-b5ab-9f50da592d8c" name="Default Changelist" comment="++">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/client1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients/client1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/client2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients/client2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/client3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients/client3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/client4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients/client4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients/head.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotes.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/script1.js" beforeDir="false" afterPath="$PROJECT_DIR$/script1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,23 +19,23 @@
     <favorites_list name="untitled" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.69716984">
+    <splitter split-orientation="horizontal" split-proportion="0.504717">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2239">
-                  <caret line="16" selection-start-line="16" selection-end-line="16" />
+                <state relative-caret-position="256">
+                  <caret line="537" column="26" lean-forward="true" selection-start-line="537" selection-start-column="26" selection-end-line="537" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/script1.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1530">
-                  <caret line="90" selection-start-line="90" selection-end-line="90" />
+                <state relative-caret-position="162">
+                  <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -60,8 +47,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="508">
-                  <caret line="720" selection-start-line="716" selection-start-column="4" selection-end-line="720" />
+                <state relative-caret-position="160">
+                  <caret line="690" column="24" lean-forward="true" selection-start-line="690" selection-start-column="24" selection-end-line="690" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -97,9 +84,9 @@
         <option value="$PROJECT_DIR$/slick/slick.min.js" />
         <option value="$PROJECT_DIR$/slick/slick.js" />
         <option value="$PROJECT_DIR$/slick/slick-theme.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/script1.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -189,12 +176,12 @@
       <workItem from="1553772401778" duration="27866000" />
       <workItem from="1554108769007" duration="49337000" />
       <workItem from="1554366688911" duration="30905000" />
-      <workItem from="1554798036131" duration="8401000" />
+      <workItem from="1554798036131" duration="10138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144703000" />
+    <option name="totallyTimeSpent" value="146440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -338,24 +325,24 @@
     <entry file="file://$PROJECT_DIR$/arrAbout.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/script1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2239">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="162">
+          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="720" selection-start-line="716" selection-start-column="4" selection-end-line="720" />
+        <state relative-caret-position="160">
+          <caret line="690" column="24" lean-forward="true" selection-start-line="690" selection-start-column="24" selection-end-line="690" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script1.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="256">
+          <caret line="537" column="26" lean-forward="true" selection-start-line="537" selection-start-column="26" selection-end-line="537" selection-end-column="26" />
         </state>
       </provider>
     </entry>

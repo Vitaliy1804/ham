@@ -688,7 +688,7 @@ body{
     background-image: url(section-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center;
 }
 
 .about-us img {
@@ -791,6 +791,7 @@ body{
 .slider-dots {
     display: flex;
     margin: 0 335px;
+
     position: relative;
     justify-content: space-between;
 }

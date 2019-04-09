@@ -90,7 +90,7 @@ serviceButtons[0].click();
 
 const slider = () => {
     const sliderHolder = document.getElementsByClassName("about-us-slides")[0];
-    console.log(sliderHolder);
+    // console.log(sliderHolder);
     let slides = document.getElementsByClassName('about-us-slide');
     slides = Array.prototype.slice.call(slides);
     // console.log(slides);
