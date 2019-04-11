@@ -90,7 +90,7 @@ serviceButtons[0].click();
 
 const slider = () => {
     const sliderHolder = document.getElementsByClassName("about-us-slides")[0];
-    // console.log(sliderHolder);
+     // console.log(sliderHolder);
     let slides = document.getElementsByClassName('about-us-slide');
     slides = Array.prototype.slice.call(slides);
     // console.log(slides);
@@ -112,7 +112,7 @@ const slider = () => {
             });
 
             slides.find((el2, index2) => {
-                if (index == index2) {
+                if (index === index2) {
                     el2.classList.add('current-slide');
                 }
             })
@@ -132,7 +132,7 @@ const slider = () => {
                     dots[++currentShow].classList.add("slider-dot-active");
                     slides[currentShow].classList.add("current-slide")
                     // console.log(currentShow)
-                } else if (currentShow == 3){
+                } else if (currentShow === 3){
                     dots[currentShow].classList.remove("slider-dot-active");
                     slides[currentShow].classList.remove("current-slide");
                     currentShow = 0;
@@ -144,20 +144,20 @@ const slider = () => {
 
 
             })
-        }
-        slideNext()
+        };
+        slideNext();
 
         const slidePrev = () => {
             prev.addEventListener("click",  ()=>{
-                if(currentShow != 0) {
+                if(currentShow !== 0) {
 
-                    console.log(currentShow);
+                    // console.log(currentShow);
                     dots[currentShow].classList.remove("slider-dot-active");
                     slides[currentShow].classList.remove("current-slide");
                     dots[--currentShow].classList.add("slider-dot-active");
                     slides[currentShow].classList.add("current-slide")
 
-                } else if (currentShow == 0){
+                } else if (currentShow === 0){
                     dots[currentShow].classList.remove("slider-dot-active");
                     slides[currentShow].classList.remove("current-slide");
                     currentShow = 3;
