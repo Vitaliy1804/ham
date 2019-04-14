@@ -709,6 +709,7 @@ body{
 }
 
 .about-us-title .titles {
+    margin: 0 auto;
     color: #fff;
     font-size: 36px;
     line-height: 40px;
@@ -747,7 +748,9 @@ body{
 }
 
 .about-us-slide {
-    text-align: center;
+    /*margin: 0 auto;*/
+    /*text-align: center;*/
+    width: 1160px;
 }
 
 .slide-text {
@@ -797,8 +800,8 @@ body{
 
 .slider-dots {
     display: flex;
-    margin: 0 335px;
-
+    width: 484px;
+    margin: 0 auto;
     position: relative;
     justify-content: space-between;
 }
@@ -837,20 +840,27 @@ body{
 }
 
 .about-us-slides {
+    margin: 0 auto;
     height: 351px;
     position: relative;
 }
 
 .about-us-slide {
+    margin: 0 auto;
     position: absolute;
     top: 0;
     left: 0;
     opacity: 0;
     transition: opacity .2s linear;
+    text-align: center;
 }
 
 .current-slide {
     opacity: 1;
     transition: opacity .4s linear;
+}
+.slide-wrapper{
+    width: 1160px;
+    margin: 0 auto;
 }
 
